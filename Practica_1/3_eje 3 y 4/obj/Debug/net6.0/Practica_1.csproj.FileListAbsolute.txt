@@ -1,0 +1,15 @@
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\bin\Debug\net6.0\Practica_1.exe
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\bin\Debug\net6.0\Practica_1.deps.json
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\bin\Debug\net6.0\Practica_1.runtimeconfig.json
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\bin\Debug\net6.0\Practica_1.dll
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\bin\Debug\net6.0\Practica_1.pdb
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.csproj.AssemblyReference.cache
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.AssemblyInfoInputs.cache
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.AssemblyInfo.cs
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.dll
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\refint\Practica_1.dll
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.pdb
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\Practica_1.genruntimeconfig.cache
+C:\Users\jt603\Desktop\C_SHARP\Practica_1\Practica_1\obj\Debug\net6.0\ref\Practica_1.dll
